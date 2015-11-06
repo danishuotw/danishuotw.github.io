@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://danishuotw.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+title: Danishuo@T_Note.com
+subtitle: 我們都是習慣的產物。優異是一種習慣，不是一個動作
 author: Your Name
 simple_search: https://www.google.com/search
 description:
@@ -74,7 +74,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -98,4 +98,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
